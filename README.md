@@ -9,6 +9,7 @@ en mode commande:
 
 Dans la console: PWD
 	-> clear: permet de suprimer les lignes de commandes écrites
+--> clear to clear the console
 	-> ls: montre les fichiers/dossiers existants dans le repertoire
 	-> ls -a: montre les fichiers/dossiers caches dans le repertoire
 	-> mv: permet de déplacer et renommer un fichier ou dossier
@@ -20,9 +21,9 @@ Dans la VIM:
 	-> DD suprime une ligne
 	-> un chiffre avant DD indique le nombre de ligne a coupe
 	-> p: permet de coller les lignes coupes à la ligne inférieure
+:wq pour sauvegarder et quitter ( ou :x)
 	-> P: permet de coller les lignes coupees a la ligne superieure
 	-> U: remet la modification
 	-> :W sauvegarde le fichier
-	-> :x ou :wg : sauvegarder et quitter
 	-> :q! sortie forcee sans sauvegarder
 	
