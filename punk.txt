@@ -1,3 +1,25 @@
+Hello jfelkfhimfhrkrnrkfnkfejflksjfdsklvjqljcklmaefnklnl
+ddjekljmljkdlsqfjdsklfmdjsfklddudduj'adore la tartiflette facile jusqu'a present
+jkdlsnvkljvelafjealkfjdsklfjdsqldjsfklsdjfldkv
+vzfnvklmntqrb,orti,vrtiov,kl,dfklnvzekfjvmneklnzklvtrevrtvr
+vzrtvrbtb,rtklvnkzmekjavnerklcnearklc,dklv,erv
+d,vckldnc,veklmrnaklvnmermklvnreklmvnaeklrvneraklvmenrzvklernveklrvnerklvnmrekvlenvklrenvzklrenvzlekvnelrv
+--> dd pour effacer une ligne
+--> u pour annuler
+--> i pour se mettre en mode "insert"
+--> esc pour le quitte
+jkdlsnvkljvelafjealkfjdsklfjdsqldjsfklsdjfldkv
+vzfnvklmntqrb,orti,vrtiov,kl,dfklnvzekfjvmneklnzklvtrevrtvr
+vzrtvrbtb,rtklvnkzmekjavnerklcnearklc,dklv,erv
+d,vckldnc,veklmrnaklvnmermklvnreklmvnaeklrvneraklvmenrzvklernveklrvnerklvnmrekvlenvklrenvzklrenvzlekvnelrv
+--> dd pour effacer une ligne
+--> u pour annuler
+--> i pour se mettre en mode "insert"
+--> esc pour le quitte
+jkdlsnvkljvelafjealkfjdsklfjdsqldjsfklsdjfldkv
+vzfnvklmntqrb,orti,vrtiov,kl,dfklnvzekfjvmneklnzklvtrevrtvr
+vzrtvrbtb,rtklvnkzmekjavnerklcnearklc,dklv,erv
+<<<<<<< HEAD
 
 hello pol; 
 Bientôt la vraie vie du travail avec travail et des impôts auto
@@ -5,3 +27,4 @@ La vie de Développeur de l'ESPACE
 raccourci: en mode commande: DD suprime une ligne/ 
 				U remet la modification
 				:W sauvegarde le fichier
+>>>>>>> b81a421b8337ce1b39086b8d00ba607d5bb850c8
