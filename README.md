@@ -21,7 +21,7 @@ Dans la console: PWD
 	-> rm: remove un fichier ou dossier
 	-> rm -rf dirname: DANGEREUX: suprime tous les dossiers du repertoire
 	
-Dans la VIM:
+Dans la console: VIM
 ------------
 
 	-> DD suprime une ligne
