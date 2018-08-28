@@ -13,7 +13,7 @@ en mode commande:
 Dans la console: PWD
 --------------------
 	-> clear: permet de suprimer les lignes de commandes écrites
-	--> clear to clear the console
+	-> clear to clear the console
 	-> ls: montre les fichiers/dossiers existants dans le repertoire
 	-> ls -a: montre les fichiers/dossiers caches dans le repertoire
 	-> mv: permet de déplacer et renommer un fichier ou dossier
@@ -22,7 +22,7 @@ Dans la console: PWD
 	-> rm -rf dirname: DANGEREUX: suprime tous les dossiers du repertoire
 	
 Dans la console: VIM
-------------
+--------------------
 
 	-> DD suprime une ligne
 	-> :wq pour sauvegarder et quitter ( ou :x)
