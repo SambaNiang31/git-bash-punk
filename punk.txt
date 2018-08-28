@@ -1,0 +1,7 @@
+
+hello pol; 
+Bientôt la vraie vie du travail avec travail et des impôts auto
+La vie de Développeur de l'ESPACE
+raccourci: en mode commande: DD suprime une ligne/ 
+				U remet la modification
+				:W sauvegarde le fichier
